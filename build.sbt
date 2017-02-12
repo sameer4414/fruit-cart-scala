@@ -10,4 +10,4 @@ libraryDependencies ++= Seq(
   "org.specs2" %% "specs2-core" % "3.6.1" % Test
 )
 
-resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
+resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases" 
